@@ -21,6 +21,7 @@ def pregunta_01():
     214
 
     """
+    y = 214
     x = 214
     return x
 
